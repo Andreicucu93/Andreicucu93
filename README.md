@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreicucu93&label=Profile%20views&color=0e75b6&style=flat" alt="andreicucu93" /> </p>
 
-- 🔭 My specialty: desktop programs*
+- 🔭 My specialty: desktop programs
 
 - 📫 How to reach me **contact@andrei-cucu.com**
 
