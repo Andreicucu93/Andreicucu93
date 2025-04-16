@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreicucu93&label=Profile%20views&color=0e75b6&style=flat" alt="andreicucu93" /> </p>
 
-- 🔭 I’m currently working on **a diverse set of projects in which I aim to boost efficiency and make things fun.**
+- 🔭 I'm specialised with desktop programs**
 
 - 📫 How to reach me **contact@andrei-cucu.com**
 
