@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreicucu93&label=Profile%20views&color=0e75b6&style=flat" alt="andreicucu93" /> </p>
 
-- 🔭 Into: desktop programs, scripts, image processing.. 
+- 🔭 Into: desktop programs, scripts, image processing, microcontrollers.. 
 
 - 📫 How to reach me **contact@andrei-cucu.com**
 
