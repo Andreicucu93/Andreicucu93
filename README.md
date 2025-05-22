@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A continuous learner in the broad world of technology. I am here to get better, do, and share.</h3>
+<h1 align="center">I'm Andrei</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreicucu93&label=Profile%20views&color=0e75b6&style=flat" alt="andreicucu93" /> </p>
 
-- 🔭 My specialty: desktop programs
+- 🔭 Into: desktop programs, scripts, image processing.. 
 
 - 📫 How to reach me **contact@andrei-cucu.com**
 
