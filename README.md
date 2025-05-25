@@ -1,4 +1,4 @@
-<h1 align="center">I'm Andrei</h1>
+<h1 align="center">I'm Andrei. Studying IT infrastructures most of the time.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreicucu93&label=Profile%20views&color=0e75b6&style=flat" alt="andreicucu93" /> </p>
 
