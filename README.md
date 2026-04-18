@@ -118,6 +118,6 @@ Solution Designer with a strong interest in building practical tools that solve 
 
 <sub>&nbsp;</sub>
 
-<sub><b>andreirulzan@gmail.com</b> &nbsp;·&nbsp; <a href="https://github.com/Andreicucu93">github.com/Andreicucu93</a></sub>
+<sub> &nbsp;·&nbsp; <a href="https://github.com/Andreicucu93">github.com/Andreicucu93</a></sub>
 
 </div>
