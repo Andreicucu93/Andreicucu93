@@ -6,15 +6,8 @@
 
 Solution Designer with a strong interest in building practical tools that solve real-world problems.
 
-<a href="https://github.com/Andreicucu93">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=IoT+gardens+%E2%86%92+ML+classifiers+%E2%86%92+time-lapse+rigs;If+it's+a+real+problem%2C+I'll+build+the+tool." alt="tagline" />
-</a>
 
 </div>
-
-<br />
-
----
 
 ## &nbsp;&nbsp;`STACK`
 
