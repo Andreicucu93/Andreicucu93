@@ -2,7 +2,6 @@
 
 # Andrei Cucu
 
-### `Solution Designer`
 
 Solution Designer with a strong interest in building practical tools that solve real-world problems.
 
