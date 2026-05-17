@@ -3,9 +3,6 @@
 # Andrei Cucu
 
 
-Solution Designer with a strong interest in building practical tools that solve real-world problems.
-
-
 </div>
 
 ## &nbsp;&nbsp;`STACK`
