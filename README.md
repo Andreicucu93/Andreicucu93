@@ -1,9 +1,3 @@
-<div align="center">
-
-# Andrei Cucu
-
-
-</div>
 
 ## &nbsp;&nbsp;`STACK`
 
